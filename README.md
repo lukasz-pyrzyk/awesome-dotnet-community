@@ -10,4 +10,4 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-dotn
 
 
 ## People (alphabetical order)
-- Łukasz Pyrzyk, [website](https://pyrzyk.net), [X](https://x.com/lukaszpyrzyk), [Mastodon](https://mastodon.social/@lukaszpyrzyk)
+- Łukasz Pyrzyk, [website](https://pyrzyk.net), [X](https://x.com/lukaszpyrzyk), [Mastodon](https://mastodon.social/@lukaszpyrzyk), [LinkedIn](https://www.linkedin.com/in/lukaszpyrzyk)
