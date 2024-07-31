@@ -5,9 +5,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-dotn
 
 ## Communities
 - [Mastodon dotnet.social](https://dotnet.social/)
-- [Reddit CSharp group](https://www.reddit.com/r/csharp/)
+- [Reddit C# group](https://www.reddit.com/r/csharp/)
 - [Reddit .NET group](https://www.reddit.com/r/dotnet)
+- [Discord C# server](https://discord.com/invite/csharp)
 
+## Websites
+- [We are .NET!](https://www.wearedotnet.io/)
 
 ## People (alphabetical order)
 - Łukasz Pyrzyk, [website](https://pyrzyk.net), [X](https://x.com/lukaszpyrzyk), [Mastodon](https://mastodon.social/@lukaszpyrzyk), [LinkedIn](https://www.linkedin.com/in/lukaszpyrzyk)
